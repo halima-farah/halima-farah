@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0078D4&height=220&section=header&text=Halima%20Farah&fontSize=70&animation=fadeIn&fontAlignY=35&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0078D4&height=200&section=header&text=Halima%20Farah&fontSize=70&fontColor=ffffff" width="100%" />
 
   <br>
   <h2>☁️ Cloud Infrastructure | 🛡️ Cybersecurity Operations | 🏥 Health Tech</h2>
@@ -24,6 +24,7 @@
     </tr>
   </table>
 </div>
+
 ---
 
 ### 🏥 Featured Project: MediSecure Lab
@@ -35,14 +36,6 @@
 
 ---
 
-### 📊 GitHub Activity
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=halima-farah&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halima-farah&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="48%" />
-</div>
-
----
-
 <div align="center">
   <h3>📬 Let's Connect</h3>
   
@@ -50,7 +43,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
-  <a href="mailto:hfarah1206@gmailcom">
+  <a href="mailto:hfarah1206@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
