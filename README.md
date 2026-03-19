@@ -27,15 +27,23 @@
 
 ---
 
-### 🏥 Featured Project: MediSecure Lab
 > *A production-grade cloud infrastructure simulation for secure healthcare logistics.*
+*A production-grade cloud infrastructure simulation for secure healthcare logistics.*
 
-* **Zero Trust Networking:** Configured Network Security Groups (NSGs) for strict traffic control.
-* **Identity & Access:** Implemented Microsoft Entra ID (Azure AD) for secure role-based access.
-* **Cost Management:** Currently maintaining a high-performance lab with a burn rate of **<$0.05/day**.
+# MediSecure Azure Security Lab 🛡️
+
+This project demonstrates a comprehensive security hardening of a healthcare dispatcher infrastructure on Microsoft Azure.
+
+## 📁 Project Phases
+
+### [Phase 11: Data At-Rest Encryption](./Phase-11)
+Implementation of **Customer-Managed Keys (CMK)** via Azure Key Vault to secure virtual machine disks beyond standard platform encryption.
+
+### [Phase 12: Network Hardening](./Phase-12)
+Configuring **Network Security Groups (NSGs)** to implement a "Least Privilege" model, restricting management access to specific IPs and segmenting web traffic.
 
 ---
-
+*Stay tuned for Phase 13: Identity & Access Management (RBAC)*
 <div align="center">
   <h3>📬 Let's Connect</h3>
   
