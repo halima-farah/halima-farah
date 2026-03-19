@@ -14,12 +14,19 @@
 
 ---
 
-### 👤 About Me
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="100%" style="background-color: #f6f8fa; padding: 20px; border-radius: 15px; border: 1px solid #d0d7de;">
-        I am a technical professional transitioning from <b>15 years of Logistics and Healthcare</b> into Cloud Computing and Cybersecurity. My expertise lies in designing secure, highly-available environments on <b>Microsoft Azure</b> with a focus on data privacy and cost governance.
+About Me
+Aviation Logistics Professional ✈️ ➡️ Cloud Security Engineer ☁️
+
+With 15 years of experience at WestJet as a Material Coordinator in Logistics and Supply Chain, I developed a "zero-error" mindset in one of the world's most highly regulated and mission-critical industries.
+
+In 2021, I pivoted my expertise into Information Technology, bringing a unique perspective on operational integrity, asset management, and complex problem-solving. I am now specializing in Azure Cloud Security, where I apply the same precision required in aviation to securing cloud infrastructure and sensitive data.
+
+Current Focus
+🔐 Infrastructure Hardening: Implementing Disk Encryption (CMK) and Network Security Groups (NSGs).
+
+🛡️ Security Governance: Designing Least-Privilege access models (RBAC).
+
+🏥 Project: Building the MediSecure Lab, a secure Azure environment for healthcare dispatchers.
       </td>
     </tr>
   </table>
