@@ -14,8 +14,9 @@
 
 ---
 
-About Me
-Aviation Logistics Professional ✈️ ➡️ Cloud Security Engineer ☁️
+## **About Me**
+
+**Aviation Logistics Professional ✈️ ➡️ Cloud Security Engineer ☁️**
 
 With 15 years of experience at WestJet as a Material Coordinator in Logistics and Supply Chain, I developed a "zero-error" mindset in one of the world's most highly regulated and mission-critical industries.
 
